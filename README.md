@@ -3,7 +3,7 @@
 The next lunchdate will be:
 
 
-##Wednesday 15.10. 14:0##
+##Wednesday 15.10. 14:00##
 
 ###Location: ###
 Cocolo Ramen Bar
